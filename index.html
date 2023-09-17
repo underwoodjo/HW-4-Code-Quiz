@@ -6,6 +6,33 @@
     <title>Document</title>
 </head>
 <body>
-    <script type="text/javascript" src="./assets/js/script.js"></script>  
+    <div id="startPage">
+        <h1>Code Quiz</h1>
+        <h2>Try to answer the questions in the time given</h2>
+        <button id="startbutton">Start Quiz</button>
+    </div>
+    <div id="Quiz" style="display:none">
+        <h1>Question1</h1>
+        <button>Option1</button>
+        <button>Option2</button>
+        <button>Option3</button>
+        <button>Option4</button>
+    </div>
+    <div style="display:none">
+        <h1>EndofQuiz</h1>
+        <form action="submit">
+            <input type="text" id="initials">
+            <button type="button">submit</button>
+        </form>
+    </div>
+    <div style="display:none">
+        <h1>Highscores</h1>
+        <ul>
+            <li>scoreone</li>
+            <li>scoretwo</li>
+            <li>scorethree</li>
+        </ul>
+    </div>
+    <script type="text/javascript" src="./script.js"></script>  
 </body>
 </html>
