@@ -2,7 +2,7 @@
 
 ## Explanation
 
-In this challenge I created a quiz using javascript, html, and css. I created the quiz with two questions that both consisted of two options as an answer. I added some color, font style and size to css to create a simple yet "catch your attention" quiz. 
+In this challenge I created a quiz using javascript, html, and css. I created the quiz with two questions that both consisted of two options as an answer. I added some color, font style and size to css to create a simple yet "catch your attention" quiz. I attached the screenshot of my deployed application to my assets folder.
 
 ## Your Task
 
