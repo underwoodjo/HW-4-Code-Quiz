@@ -1,0 +1,113 @@
+#startPage {
+    background-color: aquamarine;
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+
+}
+
+h1 {
+    text-align: center;
+    width: ;
+}
+
+h2 {
+    text-align: center;
+    font-size: 18px;
+}
+
+#startbutton {
+    margin-left: 28%;
+    width: 100px;
+    background-color: blanchedalmond;
+}
+
+#question1a {
+    margin-left: 10%;
+    width: 100px;
+    background-color: blanchedalmond;
+}
+
+#question1b {
+    width: 80px;
+    background-color: blanchedalmond;
+}
+
+#question2a {
+    margin-left: 15%;
+    width: 80px; 
+    background-color: blanchedalmond;
+}
+
+#question2b {
+    width: 80px; 
+    background-color: blanchedalmond;
+}
+#submitInitials {
+    background-color: blanchedalmond;
+}
+
+#initials {
+    margin-left: 10%
+}
+
+ul {
+    margin-left: 20%
+}
+    #Question1 {
+    background-color: aquamarine;
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#Question2 {
+    background-color: aquamarine;
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+#endofquiz {
+    background-color: aquamarine;
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#highscores {
+    background-color: aquamarine;
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
