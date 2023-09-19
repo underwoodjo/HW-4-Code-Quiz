@@ -11,23 +11,23 @@ startButton.addEventListener("click", function(){
 var Question1 = document.querySelector("#Question1")
 
 //adding click function to questions
-var True1 = document.querySelector("#True1")
-var False1 = document.querySelector("#False1")
-True1.addEventListener("click", function(){
+var question1a = document.querySelector("#question1a")
+var question1b = document.querySelector("#question1b")
+question1a.addEventListener("click", function(){
     document.querySelector("#Question1").style="display:none"
     document.querySelector("#Question2").style="display:block"
 })
-False1.addEventListener("click", function(){
+question1b.addEventListener("click", function(){
     document.querySelector("#Question1").style="display:none"
     document.querySelector("#Question2").style="display:block"
 })
-var True2 = document.querySelector("#True2")
-var False2 = document.querySelector("#False2")
-True2.addEventListener("click", function(){
+var question2a = document.querySelector("#question2a")
+var question2b = document.querySelector("#question2b")
+question2a.addEventListener("click", function(){
     document.querySelector("#Question1").style="display:none"
     document.querySelector("#Question2").style="display:block"
 })
-False2.addEventListener("click", function(){
+question2b.addEventListener("click", function(){
     document.querySelector("#Question2").style="display:none"
     document.querySelector("#endofquiz").style="display:block"
 })
