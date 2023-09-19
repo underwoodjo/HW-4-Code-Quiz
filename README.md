@@ -4,6 +4,8 @@
 
 In this challenge I created a quiz using javascript, html, and css. I created the quiz with two questions that both consisted of two options as an answer. I added some color, font style and size to css to create a simple yet "catch your attention" quiz. I attached the screenshot of my deployed application to my assets folder.
 
+![Alt text](image.png)
+
 ## Your Task
 
 At some point in your journey to become a full-stack web developer, you’ll likely be asked to complete a coding assessment&mdash;perhaps as part of an interview process. A typical coding assessment includes both multiple-choice questions and interactive coding challenges. 
